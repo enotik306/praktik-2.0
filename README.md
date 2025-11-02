@@ -1,1 +1,2 @@
-# praktik-2.0
+git rm file1.txt
+git commit -m "удалить file1.txt"
